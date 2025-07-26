@@ -1,0 +1,5 @@
+prob,3,3,diaa,-
+stat,3,3,hanan,-
+or,3,3,soaad,stat|ds
+archi,2,3,manar,or
+ds,3,3,hanan,-
