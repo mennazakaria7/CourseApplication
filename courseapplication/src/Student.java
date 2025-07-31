@@ -47,7 +47,7 @@ public class Student extends User {
         return registeredCourses;
     }
 
-    // Constructor
+   
     public Student(String ID, String username, String password) {
         super(ID, username, password);
         this.usertype = "student";
